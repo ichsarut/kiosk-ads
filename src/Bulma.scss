@@ -1,0 +1,32 @@
+@import "bulma/bulma.sass";
+@import "./assets/fonts/index.scss";
+
+.center-all {
+  height: 100vh;
+  padding: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-button {
+  font-family: SuperMarket;
+  font-size: 18mm;
+  padding: 20mm;
+
+  color: white;
+  font-weight: bold;
+}
+
+.video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  background-size: cover;
+}
