@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
 
-const Project = () => (
+const Third = () => (
   <div className="columns is-centered center-all">
     <div className="column is-narrow ">
       <Link to="/" className="navbar-item">
@@ -11,8 +11,8 @@ const Project = () => (
       </Link>
     </div>
     <div className="column is-narrow">
-      <h1 className="title">Project</h1>
+      <h1 className="title">Third</h1>
     </div>
   </div>
 )
-export default Project
+export default Third

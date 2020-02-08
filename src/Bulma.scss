@@ -14,8 +14,6 @@
   font-family: SuperMarket;
   font-size: 18mm;
   padding: 20mm;
-
-  color: white;
   font-weight: bold;
 }
 
@@ -29,4 +27,22 @@
   height: auto;
   z-index: -100;
   background-size: cover;
+}
+
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ads-box {
+  h1 {
+    color: black;
+  }
+  height: 100px;
 }

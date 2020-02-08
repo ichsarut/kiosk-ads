@@ -25,7 +25,7 @@ const videos = [
       "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     ],
     subtitle: "By Google",
-    thumb: "images/ForBiggerBlazes.jpg",
+    thumb: "ForBiggerBlazes.jpg",
     title: "For Bigger Blazes"
   },
   {
@@ -35,7 +35,7 @@ const videos = [
       "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
     ],
     subtitle: "By Google",
-    thumb: "images/ForBiggerEscapes.jpg",
+    thumb: "ForBiggerEscapes.jpg",
     title: "For Bigger Escape"
   },
   {
@@ -45,7 +45,7 @@ const videos = [
       "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
     ],
     subtitle: "By Google",
-    thumb: "images/ForBiggerFun.jpg",
+    thumb: "ForBiggerFun.jpg",
     title: "For Bigger Fun"
   },
   {
@@ -55,7 +55,7 @@ const videos = [
       "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
     ],
     subtitle: "By Google",
-    thumb: "images/ForBiggerJoyrides.jpg",
+    thumb: "ForBiggerJoyrides.jpg",
     title: "For Bigger Joyrides"
   },
   {
@@ -65,7 +65,7 @@ const videos = [
       "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
     ],
     subtitle: "By Google",
-    thumb: "images/ForBiggerMeltdowns.jpg",
+    thumb: "ForBiggerMeltdowns.jpg",
     title: "For Bigger Meltdowns"
   }
   // {

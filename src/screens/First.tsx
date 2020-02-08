@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
 
-const Post = () => (
+const First = () => (
   <div className="columns is-mobile is-multiline is-centered center-all">
     <div className="columns is-centered center-all">
       <div className="column is-narrow ">
@@ -12,10 +12,10 @@ const Post = () => (
         </Link>
       </div>
       <div className="column is-narrow">
-        <h1 className="title">Posts</h1>
+        <h1 className="title">First</h1>
       </div>
     </div>
   </div>
 )
 
-export default Post
+export default First
